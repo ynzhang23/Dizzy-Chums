@@ -16,6 +16,9 @@ Key technical achievements include:
 - **Networking**: Photon PUN2
 - **Platform**: iOS, Android
 
+## Commit Log
+![Commit Log](RepoImg/commit-log.png)
+
 ## Features
 
 ### Battle
@@ -26,16 +29,13 @@ The core of Dizzy Chums is its innovative AR battle system. Players can:
 - Experience consistent gameplay across various lighting conditions and environments
 
 ### Lobby
-![Lobby](Img/lobby.png)
+![Lobby](RepoImg/lobby.png)
 
 ### Login
-![Login](Img/login.png)
+![Login](RepoImg/login.png)
 
 ### Character Selection
-![Character Selection](Img/select.png)
-
-## Commit Log
-![Commit Log](Img/commit-log.png)
+![Character Selection](RepoImg/select.png)
 
 ## Installation
 1. Clone the repository
