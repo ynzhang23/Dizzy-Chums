@@ -2,6 +2,8 @@
 
 ![Lobby](RepoImg/lobby.png)
 
+![360](RepoImg/MultiAngle.gif)
+
 Dizzy Chums is a mobile AR online multiplayer game created using [Unity's](https://unity.com/) and its [ARFoundation](https://unity.com/unity/features/arfoundation) framework, blending both virtual and real-world environments. The game features real-time multi-user AR synchronization, allowing players to engage in dynamic, physics-driven combat across shared AR spaces.
 
 Key technical achievements include:
