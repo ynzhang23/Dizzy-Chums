@@ -1,5 +1,7 @@
 # Dizzy Chums
 
+![Lobby](RepoImg/lobby.png)
+
 Dizzy Chums is a mobile AR online multiplayer game created using [Unity's](https://unity.com/) and its [ARFoundation](https://unity.com/unity/features/arfoundation) framework, blending both virtual and real-world environments. The game features real-time multi-user AR synchronization, allowing players to engage in dynamic, physics-driven combat across shared AR spaces.
 
 Key technical achievements include:
@@ -17,7 +19,7 @@ Key technical achievements include:
 - **Platform**: iOS, Android
 
 ## Commit Log
-Development works are done on a private repo to protect the copyrighted Assets.
+Development works are done on a private repo to protect the copyrighted Assets.<br/>
 
 ![Commit Log](RepoImg/commit-log.png)
 
@@ -30,28 +32,29 @@ The core of Dizzy Chums is its innovative AR battle system. Players can:
 - Experience consistent gameplay across various lighting conditions and environments
 
 ### Realtime AR Sizing
+The game arena can be manually adjusted in realtime to fit the available real-world space, ensuring optimal gameplay in various environments.<br/>
+<br/>
 ![Sizing](RepoImg/ArenaSizing.gif)
-The game arena can be manually adjusted in realtime to fit the available real-world space, ensuring optimal gameplay in various environments.
 
 ### Battle
 
 #### 360 Battle
-Players can move around the AR arena, viewing and interacting with the game from any angle, providing a truly immersive 360-degree experience.
+Players can move around the AR arena, viewing and interacting with the game from any angle, providing a truly immersive 360-degree experience.<br/>
+
 ![360](RepoImg/MultiAngle.gif)
 
 #### Player 2 POV
-A glimpse into the second player's perspective, showcasing the synchronized multiplayer AR experience.
+A glimpse into the second player's perspective, showcasing the synchronized multiplayer AR experience.<br/>
 ![Player2](RepoImg/Player2POV.gif)
 
 #### Death Respawn
-Player respawns scene.
+Player respawns scene.<br/>
 ![Death](RepoImg/Death.gif)
 
 ### UI Interface
-The user interface features smooth transitions and intuitive controls for character and game initiation.
+The user interface features smooth transitions and intuitive controls for character and game initiation.<br/>
 ![Selection](RepoImg/Selection.gif)
-
-![Lobby](RepoImg/lobby.png)
+<br/>
 
 ### Login
 ![Login](RepoImg/login.png)
