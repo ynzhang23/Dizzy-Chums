@@ -26,17 +26,17 @@ The core of Dizzy Chums is its innovative AR battle system. Players can:
 - Experience consistent gameplay across various lighting conditions and environments
 
 ### Lobby
-![Lobby](img/lobby.PNG)
+![Lobby](Img/lobby.PNG)
 
 ### Login
-![Login](img/login.PNG)
+![Login](Img/login.PNG)
 
 ### Character Selection
-![Character Selection](img/select.PNG)
+![Character Selection](Img/select.PNG)
 
 ## Commit Log
-![Commit Log](img/commit-log.png)
-      
+![Commit Log](Img/commit-log.png)
+
 ## Installation
 1. Clone the repository
 2. Open the project in Unity 2022.3.10f1 or later
