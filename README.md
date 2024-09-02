@@ -17,18 +17,40 @@ Key technical achievements include:
 - **Platform**: iOS, Android
 
 ## Commit Log
+Development works are done on a private repo to protect the copyrighted Assets.
+
 ![Commit Log](RepoImg/commit-log.png)
 
-## Features
+## In-Game Footage
 
-### Battle
 The core of Dizzy Chums is its innovative AR battle system. Players can:
-- Use any flat surfaces in real life to place the battle arena
+- Flat surface detection from ARFoundation enables player to place arena on any flat surfaces around them.
 - Engage in real-time AR combat with physics-based interactions
 - Interact with the battle field from different angles in real life
 - Experience consistent gameplay across various lighting conditions and environments
 
-### Lobby
+### Realtime AR Sizing
+![Sizing](RepoImg/ArenaSizing.gif)
+The game arena can be manually adjusted in realtime to fit the available real-world space, ensuring optimal gameplay in various environments.
+
+### Battle
+
+#### 360 Battle
+Players can move around the AR arena, viewing and interacting with the game from any angle, providing a truly immersive 360-degree experience.
+![360](RepoImg/MultiAngle.gif)
+
+#### Player 2 POV
+A glimpse into the second player's perspective, showcasing the synchronized multiplayer AR experience.
+![Player2](RepoImg/Player2POV.gif)
+
+#### Death Respawn
+Player respawns scene.
+![Death](RepoImg/Death.gif)
+
+### UI Interface
+The user interface features smooth transitions and intuitive controls for character and game initiation.
+![Selection](RepoImg/Selection.gif)
+
 ![Lobby](RepoImg/lobby.png)
 
 ### Login
