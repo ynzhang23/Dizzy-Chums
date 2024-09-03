@@ -4,6 +4,8 @@
 
 ![360](RepoImg/MultiAngle.gif)
 
+![Sizing](RepoImg/FlatSurface.gif)
+
 Dizzy Chums is a mobile AR online multiplayer game created using [Unity's](https://unity.com/) and its [ARFoundation](https://unity.com/unity/features/arfoundation) framework, blending both virtual and real-world environments. The game features real-time multi-user AR synchronization, allowing players to engage in dynamic, physics-driven combat across shared AR spaces.
 
 Key technical achievements include:
@@ -12,7 +14,7 @@ Key technical achievements include:
 - Cross-platform compatibility (iOS/Android) through ARFoundation
 - Low-latency multiplayer interactions via [Photon PUN2](https://www.photonengine.com/pun) networking
 - Server-side battle validation to ensure fair play and prevent cheating
-- Adaptive AR recalibration system for consistent user experience across various real-world environments
+- Adaptive AR recalibration system with AR Raycasting
 
 ## Technical Details
 - **Engine**: Unity 2022.3.10f1
@@ -32,6 +34,12 @@ The core of Dizzy Chums is its innovative AR battle system. Players can:
 - Engage in real-time AR combat with physics-based interactions
 - Interact with the battle field from different angles in real life
 - Experience consistent gameplay across various lighting conditions and environments
+
+## Mobile AR Feature
+### Flat surface detection
+With [Raycasting] (https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.0/manual/raycast-manager.html), the game dynamically detects nearby flat surfaces to place the arena.
+<br/>
+![Sizing](RepoImg/FlatSurface.gif)
 
 ### Realtime AR Sizing
 The game arena can be manually adjusted in realtime to fit the available real-world space, ensuring optimal gameplay in various environments.<br/>
